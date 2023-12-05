@@ -3,7 +3,7 @@ import { useState } from "react";
 
 function Sobre(){
     return(
-        <><Link><a href="/">Acessar página Sobre</a></Link><div>
+        <><a href="/">Acessar página Sobre</a><div>
             <h1>Home</h1>
            </div></>
             
